@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContinueExample",
+            "request": "launch",
+            "mainClass": "ContinueExample",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
             "name": "GradeCalculator",
             "request": "launch",
             "mainClass": "GradeCalculator",
