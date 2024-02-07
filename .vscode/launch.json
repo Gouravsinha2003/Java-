@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FrequencyCounter",
+            "request": "launch",
+            "mainClass": "FrequencyCounter",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "StockData",
+            "request": "launch",
+            "mainClass": "StockData",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
             "name": "ContinueExample",
             "request": "launch",
             "mainClass": "ContinueExample",
