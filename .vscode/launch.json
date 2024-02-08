@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "This",
+            "request": "launch",
+            "mainClass": "This",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "StaticAccessExample",
+            "request": "launch",
+            "mainClass": "StaticAccessExample",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "shape",
+            "request": "launch",
+            "mainClass": "shape",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "Shape",
+            "request": "launch",
+            "mainClass": "Shape",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
             "name": "FrequencyCounter",
             "request": "launch",
             "mainClass": "FrequencyCounter",
