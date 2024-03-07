@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AreaCalculation",
+            "request": "launch",
+            "mainClass": "AreaCalculation",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyMethod",
+            "request": "launch",
+            "mainClass": "MultiplyMethod",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "BoxShippingDemo",
+            "request": "launch",
+            "mainClass": "BoxShippingDemo",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "LibraryDemo",
+            "request": "launch",
+            "mainClass": "LibraryDemo",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "FamilyTree",
+            "request": "launch",
+            "mainClass": "FamilyTree",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "super_inheritance",
+            "request": "launch",
+            "mainClass": "super_inheritance",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDemo",
+            "request": "launch",
+            "mainClass": "EmployeeDemo",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
             "name": "This",
             "request": "launch",
             "mainClass": "This",
