@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "BoxShipping",
+            "request": "launch",
+            "mainClass": "BoxShipping",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "TestCompartment",
+            "request": "launch",
+            "mainClass": "assign.TestCompartment",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "q5_sd",
+            "request": "launch",
+            "mainClass": "assign.q5_sd",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "assign.q5",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "q5",
+            "projectName": "JAVA_8647a7ef"
+        },
+        {
+            "type": "java",
             "name": "AreaCalculation",
             "request": "launch",
             "mainClass": "AreaCalculation",
